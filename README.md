@@ -5,7 +5,7 @@ If you've recently been shopping for a tablet and aren't sure how big the screen
 
 ## How to Use
 
-Select the machine you want, print this pdf on A4 paper using the 100% size, check that it is printed at 100% scale using an ID or bank card placed in the middle box. 
+Select the machine you want, **print this pdf on A4 paper using the 100% size**, check that it is printed at 100% scale using an ID or bank card placed in the middle box. 
 
 Cut along the dotted line, and the part you get is the actual display area of the screen.
 
@@ -19,7 +19,7 @@ You can compare it to what you want to display and see if it's big enough.
 
 ## 如何使用
 
-选择你要的机器，使用 100% 尺寸在 A4 纸上打印这个 pdf，使用身份证或银行卡放在中间的框中检查是否为 100% 比例打印。
+选择你要的机器，**使用 100% 尺寸在 A4 纸上打印这个 pdf**，使用身份证或银行卡放在中间的框中检查是否为 100% 比例打印。
 
 沿虚线裁开，你得到的部分就是屏幕的实际显示面积。
 
